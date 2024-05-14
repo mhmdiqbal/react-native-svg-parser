@@ -32,7 +32,7 @@
   "dependencies": {
     "camelcase": "^5.0.0",
     "css-parse-no-fs": "^2.0.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
