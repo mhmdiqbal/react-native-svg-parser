@@ -1,4 +1,4 @@
-import { DOMParser } from 'xmldom'
+import { DOMParser } from '@xmldom/xmldom'
 import cssParse from 'css-parse-no-fs'
 import converter from './converter'
 
